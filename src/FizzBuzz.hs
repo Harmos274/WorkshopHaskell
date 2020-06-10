@@ -3,8 +3,6 @@ module FizzBuzz
       fizzbuzz
     ) where
 
-import Data.Ratio ((%))
-
 posReal :: [Integer]
 posReal = [0, 1..]
 
