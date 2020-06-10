@@ -1,0 +1,3 @@
+# Workshop Haskell
+
+Haskell FizzBuzz.
